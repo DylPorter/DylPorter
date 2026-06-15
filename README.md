@@ -11,7 +11,7 @@ I care about shipping things that actually work at scale.
 
 ### Where I work
 
-**Full Stack AI Engineer** — [Collective Global](https://collectiveglobal.net)<br>
+**Full Stack AI Engineer** — [Collective Global](https://www.collectiveglobal.net/)<br>
 End-to-end AI for startup clients: LLM pipelines, AWS infra, React/TypeScript frontends.
 
 **Coding Instructor** — [BSD Education](https://bsd.education)<br>
