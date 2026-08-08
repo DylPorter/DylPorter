@@ -38,12 +38,7 @@ Web dev, Python, AI, game dev · 100+ students aged 7–14.
 
 ### Stack
 
-![LLMs](https://img.shields.io/badge/LLMs-1F2937?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-1F2937?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-1F2937?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+LLMs · Agentic AI · RAG · Python · TypeScript · AWS
 
 ---
 
