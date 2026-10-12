@@ -42,9 +42,6 @@ LLMs · Agentic AI · RAG · Python · TypeScript · AWS
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tdporter.dev-1f1f1f?style=for-the-badge&logo=safari&logoColor=white)](https://tdporter.dev) &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tdporter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tdporter) &nbsp;
-[![X](https://img.shields.io/badge/X-@tdporterdev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tdporterdev) &nbsp;
-[![Email](https://img.shields.io/badge/Email-info@tdporter.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@tdporter.dev)
+[tdporter.dev](https://tdporter.dev) · [LinkedIn](https://linkedin.com/in/tdporter) · [X](https://x.com/tdporterdev) · [info@tdporter.dev](mailto:info@tdporter.dev)
 
 </div>
