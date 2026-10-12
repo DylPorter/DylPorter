@@ -7,6 +7,8 @@
 Contract developer building production AI systems for startups across sourcing, healthcare, and EdTech.
 I care about shipping things that actually work at scale.
 
+[tdporter.dev](https://tdporter.dev) · [LinkedIn](https://linkedin.com/in/tdporter) · [X](https://x.com/tdporterdev) · [info@tdporter.dev](mailto:info@tdporter.dev)
+
 ---
 
 ### Where I work
@@ -35,13 +37,5 @@ Web dev, Python, AI, game dev · 100+ students aged 7–14.
 </td>
 </tr>
 </table>
-
-### Stack
-
-LLMs · Agentic AI · RAG · Python · TypeScript · AWS
-
----
-
-[tdporter.dev](https://tdporter.dev) · [LinkedIn](https://linkedin.com/in/tdporter) · [X](https://x.com/tdporterdev) · [info@tdporter.dev](mailto:info@tdporter.dev)
 
 </div>
